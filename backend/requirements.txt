@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn[standard]
+httpx
+httpx2
+beautifulsoup4
+slowapi
+pytest
